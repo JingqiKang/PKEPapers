@@ -29,13 +29,7 @@ Resource Contributed by [Jingqi Kang](https://github.com/JingqiKang), [Rongyi Ch
   </tr>
 </thead>
 <tbody >
-<tr>
-	<td><code> ATIS</code> </td>
-    <td> 1. The ATIS (Airline Travel Information Systems) dataset (Tur  et al., 2010) is widely used in SLU research 2. For natural language  understanding </td>
-    <td> Download:         1.https://github.com/yizhen20133868/StackPropagation-SLU/tree/master/data/atis         2.https://github.com/yvchen/JointSLU/tree/master/data      Paper:      https://www.aclweb.org/anthology/H90-1021.pdf </td>
-    <td> Airline Travel Information     However, this data set has been shown to have a serious skew problem on intent </td>
-    <td> Train: 4478 Test: 893 120 slot and 21 intent                 </td>
-</tr>
+
 
 <tr>
 	<td><code> RAW_recipes.csv</code> </td>
