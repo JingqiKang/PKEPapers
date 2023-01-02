@@ -35,7 +35,7 @@ Resource Contributed by [Jingqi Kang](https://github.com/JingqiKang), [Rongyi Ch
 	<td><code>Food.com Recipes and Interactions</code> </td>
     <td> containing crawled data from Food.com. This dataset was published in Bodhisattwa Prasad Majumder, Shuyang Li, Jianmo Ni, Julian McAuley, Generating Personalized Recipes from Historical User Preferences, EMNLP, 2019 </td>
     <td> Download:<br/>1.https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions   <br/> </td>
-    <td>  </td>
+    <td>  This dataset consists of 180K+ recipes and 700K+ recipe reviews covering 18 years of user interactions and uploads on Food.com (formerly GeniusKitchen). </td>
     <td>                  </td>
 </tr>
 <tr>
