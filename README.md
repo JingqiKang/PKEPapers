@@ -67,6 +67,13 @@ Resource Contributed by [Jingqi Kang](https://github.com/JingqiKang), [Rongyi Ch
     <td> Download: www.food.com </td>
     <td> Resources 8 </td>
 </tr>
+
+<tr>
+    <td> wikihow_hierarchy </td>
+    <td> 获取过程知识文本集合的知识层次结构 </td>
+    <td> Download: https://github.com/shuyanzhou/wikihow_hierarchy </td>
+    <td> Resources 9 </td>
+</tr>
 </tbody >
 </table>
 </div>
