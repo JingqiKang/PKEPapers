@@ -33,12 +33,6 @@ Resource Contributed by [Jingqi Kang](https://github.com/JingqiKang), [Rongyi Ch
   </tr>
 </thead>
 <tbody >
-<tr>
-	<td> wikiteam </td>
-    <td> 判断步骤间关系 </td>
-    <td> Download: https://github.com/WikiTeam/wikiteam </td>
-    <td> Resources 5 </td>
-</tr>
 
 <tr>
 	<td> MyFixit </td>
@@ -48,30 +42,16 @@ Resource Contributed by [Jingqi Kang](https://github.com/JingqiKang), [Rongyi Ch
 </tr>
 
 <tr>
-	<td> Recipe named entities (r NEs) </td>
-    <td> 标注关键元素 </td>
-    <td> Download: 	https://sites.google.com/view/yy-lab/resource/english-recipe-ner </td>
-    <td> Resources 6 </td>
-</tr>
-
-<tr>
-	<td> r-FG </td>
+	<td> English Recipe Flowgraph </td>
     <td> 生成流程图 </td>
-    <td> Download: https://github.com/rub-ksv/MyFixit-Dataset </td>
-    <td> Resources 8 </td>
-</tr>
-
-<tr>
-	<td> food </td>
-    <td> 替换步骤中的实体 </td>
-    <td> Download: www.food.com </td>
+    <td> Download: https://sites.google.com/view/yy-lab/resource/english-recipe-flowgraph </td>
     <td> Resources 8 </td>
 </tr>
 
 <tr>
     <td> wikihow_hierarchy </td>
     <td> 获取过程知识文本集合的知识层次结构 </td>
-    <td> Download: https://github.com/shuyanzhou/wikihow_hierarchy </td>
+    <td> Download: https://drive.google.com/file/d/1uy-GNINlC2Q8sO8wORvbLdMv9yb8Hfg3/view </td>
     <td> Resources 9 </td>
 </tr>
 </tbody >
